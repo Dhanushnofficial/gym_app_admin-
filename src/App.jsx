@@ -16,6 +16,7 @@ import Dashboard from './pages/Dashboard';
 import Members from './pages/Members';
 import Attendance from './pages/Attendance';
 import Payments from './pages/Payments';
+import UserAnalytics from './pages/UserAnalytics';
 
 
 const App = () => {
@@ -64,9 +65,8 @@ const App = () => {
               element={<Payments />}
             />
 
-            
-            
 
+           
           </Routes>
 
         </div>

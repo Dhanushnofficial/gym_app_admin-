@@ -19,6 +19,7 @@ import {
   FaCalendarCheck,
   FaMoneyBillWave,
   FaDumbbell,
+  FaChartLine,
 } from 'react-icons/fa';
 
 const Sidebar = () => {
@@ -55,6 +56,7 @@ const Sidebar = () => {
       path: '/payments',
       icon: <FaMoneyBillWave />,
     },
+
 
   ];
 
